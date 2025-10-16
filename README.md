@@ -508,4 +508,3 @@ For questions, issues, or collaboration:
 
 ---
 
-**Built with ❤️ for neuromorphic computing and energy-efficient AI**
