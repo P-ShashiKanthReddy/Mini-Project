@@ -52,3 +52,7 @@ urllib3>=2.5.0 ; python_version > "3.8" # not directly required, pinned by Snyk 
 
 # Neuromorphic ----------------------------------------------------------------
 snntorch>=0.6.0  # Spiking Neural Networks for PyTorch
+
+# API Server ------------------------------------------------------------------
+Flask>=3.0.0  # Web server framework
+Flask-CORS>=4.0.0  # Cross-Origin Resource Sharing
